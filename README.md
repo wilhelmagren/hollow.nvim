@@ -8,7 +8,7 @@
 </div>
 
 
-## References
+## ○ References
 
 This is work in progress so I am still learning, here is a list of references I have been
 using:
@@ -23,6 +23,7 @@ using:
 - https://github.com/shortcuts/neovim-plugin-boilerplate
 - https://zignar.net/2022/11/06/structuring-neovim-lua-plugins/
 - https://github.com/ThePrimeagen/harpoon/tree/harpoon2
+- https://zignar.net/2022/11/06/structuring-neovim-lua-plugins/#require-performance
 
 
 ## ⇁ Installation
