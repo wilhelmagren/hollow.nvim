@@ -1,12 +1,3 @@
-local M = {}
+if vim.g.loaded_hollow then return end
 
-local _config = {
-    style = 'dark',
-    transparent = true,
-}
-
-function M.setup(config)
-    _config = config
-end
-
-return M
+vim.g.loaded_hollow = true
