@@ -4,6 +4,7 @@
 
 
 ##### A dark Neovim color scheme inspired by Atom's One Dark.
+##### Don't you dare go hollow.
 
 </div>
 
@@ -26,7 +27,7 @@ using:
 - https://zignar.net/2022/11/06/structuring-neovim-lua-plugins/#require-performance
 
 
-## ⇁ Installation
+## ○ Installation
 
 Install using `packer`
 
@@ -35,18 +36,18 @@ use("wilhelmagren/hollow.nvim")
 ```
 
 
-## ⇁ Configuration
+## ○ Configuration
 
 ...
 
 
 
-## ⇁ Default Configuration
+## ○ Default Configuration
 
 ...
 
 
-## ⇁ License
+## ○ License
 
 Use one of [LICENSE-APACHE](./LICENSE-APACHE) or [LICENSE-MIT](./LICENSE-MIT) based on
 your needs.
