@@ -2,9 +2,9 @@
 
 # hollow.nvim
 
-
+##### *Don't you dare go hollow.*
 ##### A dark Neovim color scheme inspired by Atom's One Dark.
-##### Don't you dare go hollow.
+
 
 </div>
 
@@ -29,11 +29,7 @@ using:
 
 ## ○ Installation
 
-Install using `packer`
-
-```lua
-use("wilhelmagren/hollow.nvim")
-```
+still wip so you if you try and install it, it won't work :)
 
 
 ## ○ Configuration
